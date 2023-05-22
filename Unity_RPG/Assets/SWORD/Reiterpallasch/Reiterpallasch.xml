@@ -1,0 +1,32 @@
+<ns0:pmxstatus xmlns:ns0="local" xml:lang="jp"><pmdinfo><name>Reiterpallasch 2078</name><name_e>New MMD Model</name_e><comment>レイテルパラッシュ 2078
+
+by VoizeRick
+2019.6.26</comment><comment_e>exported by mmd_tools</comment_e></pmdinfo>
+<morphs><!--表情グループ 0:使用不可 1:まゆ 2:目 3:リップ 4:その他-->
+<morph b_name="brake" group="4" index="0" name="brake" name_e="" />
+<morph b_name="+" group="4" index="1" name="+" name_e="" />
+<morph b_name="-" group="4" index="2" name="-" name_e="" />
+</morphs>
+<bones><bone add_move="0" add_rot="0" b_name="全ての親" fixed_axis="0" ik="0" index="0" local_axis="0" movable="1" name="全ての親" name_e="Root" operational="1" power="1.0" rotatable="1" visible="1" />
+<bone add_move="0" add_rot="0" b_name="small arm" fixed_axis="0" ik="0" index="1" local_axis="0" movable="0" name="small arm" name_e="" operational="1" power="1.0" rotatable="1" visible="0" />
+<bone add_move="0" add_rot="0" b_name="mid arm" fixed_axis="0" ik="0" index="2" local_axis="0" movable="0" name="mid arm" name_e="" operational="1" power="1.0" rotatable="1" visible="0" />
+<bone add_move="0" add_rot="0" b_name="big arm" fixed_axis="0" ik="0" index="3" local_axis="0" movable="0" name="big arm" name_e="" operational="1" power="1.0" rotatable="1" visible="0" />
+</bones>
+<labels>
+<label index="0" name="Root" name_e="Root" type="1"><tab index="0" name="全ての親" type="bone" />
+</label>
+<label index="1" name="表情" name_e="Facial" type="1"><tab index="0" name="brake" type="morph" />
+<tab index="1" name="+" type="morph" />
+<tab index="2" name="-" type="morph" />
+</label>
+</labels>
+<materials><material b_name="main" both="1" drop_shadow="1" edge_size="0.5" ground_shadow="1" index="0" name="main" name_e="phong5SG" on_edge="1" on_shadow="1" toon="0" use_systemtoon="1"><edge_color a="1.0" b="0.0" g="0.0" r="0.0" /></material>
+<material b_name="brake" both="1" drop_shadow="1" edge_size="0.5" ground_shadow="1" index="1" name="brake" name_e="lambert2SG" on_edge="0" on_shadow="1" toon="0" use_systemtoon="1"><edge_color a="1.0" b="0.0" g="0.0" r="0.0" /></material>
+<material b_name="+" both="1" drop_shadow="1" edge_size="0.5" ground_shadow="1" index="2" name="+" name_e="phong7SG" on_edge="1" on_shadow="1" toon="0" use_systemtoon="1"><edge_color a="1.0" b="0.0" g="0.0" r="0.0" /></material>
+<material b_name="-" both="1" drop_shadow="1" edge_size="0.5" ground_shadow="1" index="3" name="-" name_e="phong8SG" on_edge="1" on_shadow="1" toon="0" use_systemtoon="1"><edge_color a="1.0" b="0.0" g="0.0" r="0.0" /></material>
+</materials>
+<rigid_bodies>
+</rigid_bodies>
+<constraints>
+</constraints>
+</ns0:pmxstatus>

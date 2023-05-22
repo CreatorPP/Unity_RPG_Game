@@ -1,0 +1,392 @@
+fileFormatVersion: 2
+guid: b3d83b2697704414dbc2d8c2c3a0fcbf
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: AccessoryRibbon11
+    100002: AccessoryRibbon12
+    100004: AccessoryRibbon21
+    100006: AccessoryRibbon22
+    100008: Armature.001
+    100010: BackHair11_L
+    100012: BackHair11_R
+    100014: BackHair12_L
+    100016: BackHair12_R
+    100018: BackHair13_L
+    100020: BackHair13_R
+    100022: BackHair14_L
+    100024: BackHair14_R
+    100026: BackHair15_L
+    100028: BackHair15_R
+    100030: BackHair21_L
+    100032: BackHair21_R
+    100034: BackHair22_L
+    100036: BackHair22_R
+    100038: BackHair23_L
+    100040: BackHair23_R
+    100042: BackHair24_L
+    100044: BackHair24_R
+    100046: BackHair25_L
+    100048: BackHair25_R
+    100050: BackHair26_L
+    100052: BackHair26_R
+    100054: BackHair31
+    100056: BackHair32
+    100058: BackHair33
+    100060: BackHair34
+    100062: BackHair35
+    100064: BackHair36
+    100066: Body
+    100068: Chain1_L
+    100070: Chain2_L
+    100072: Chain3_L
+    100074: Chain4_L
+    100076: Chain5_L
+    100078: Chain6_L
+    100080: Chest
+    100082: Eye_L
+    100084: Eye_R
+    100086: FrontHair1
+    100088: FrontHair2_L
+    100090: FrontHair2_R
+    100092: Head
+    100094: Hips
+    100096: IndexFinger1_L
+    100098: IndexFinger1_R
+    100100: IndexFinger2_L
+    100102: IndexFinger2_R
+    100104: IndexFinger3_L
+    100106: IndexFinger3_R
+    100108: Left ankle
+    100110: Left arm
+    100112: Left elbow
+    100114: Left knee
+    100116: Left leg
+    100118: Left shoulder
+    100120: Left toe
+    100122: Left wrist
+    100124: LeftEye
+    100126: LittleFinger1_L
+    100128: LittleFinger1_R
+    100130: LittleFinger2_L
+    100132: LittleFinger2_R
+    100134: LittleFinger3_L
+    100136: LittleFinger3_R
+    100138: MiddleFinger1_L
+    100140: MiddleFinger1_R
+    100142: MiddleFinger2_L
+    100144: MiddleFinger2_R
+    100146: MiddleFinger3_L
+    100148: MiddleFinger3_R
+    100150: MonkeyBodyBody1_L
+    100152: MonkeyBodyBody1_R
+    100154: MonkeyBodyBody2_L
+    100156: MonkeyBodyBody2_R
+    100158: Neck
+    100160: Right ankle
+    100162: Right arm
+    100164: Right elbow
+    100166: Right knee
+    100168: Right leg
+    100170: Right shoulder
+    100172: Right toe
+    100174: Right wrist
+    100176: RightEye
+    100178: RingFinger1_L
+    100180: RingFinger1_R
+    100182: RingFinger2_L
+    100184: RingFinger2_R
+    100186: RingFinger3_L
+    100188: RingFinger3_R
+    100190: Spine
+    100192: //RootNode
+    100194: String1_L
+    100196: String1_R
+    100198: String2_L
+    100200: String2_R
+    100202: String3_L
+    100204: String3_R
+    100206: Tail1
+    100208: Tail2
+    100210: Tail3
+    100212: Tail4
+    100214: Tail5
+    100216: Thumb0_L
+    100218: Thumb0_R
+    100220: Thumb1_L
+    100222: Thumb1_R
+    100224: Thumb2_L
+    100226: Thumb2_R
+    100228: US_0_0
+    100230: US_0_1
+    100232: US_0_2
+    100234: US_0_3
+    100236: US_0_4
+    100238: US_0_5
+    100240: US_0_6
+    100242: US_0_7
+    100244: US_0_8
+    100246: US_0_9
+    100248: US_1_0
+    100250: US_1_1
+    100252: US_1_2
+    100254: US_1_3
+    100256: US_1_4
+    100258: US_1_5
+    100260: US_1_6
+    100262: US_1_7
+    100264: US_1_8
+    100266: US_1_9
+    400000: AccessoryRibbon11
+    400002: AccessoryRibbon12
+    400004: AccessoryRibbon21
+    400006: AccessoryRibbon22
+    400008: Armature.001
+    400010: BackHair11_L
+    400012: BackHair11_R
+    400014: BackHair12_L
+    400016: BackHair12_R
+    400018: BackHair13_L
+    400020: BackHair13_R
+    400022: BackHair14_L
+    400024: BackHair14_R
+    400026: BackHair15_L
+    400028: BackHair15_R
+    400030: BackHair21_L
+    400032: BackHair21_R
+    400034: BackHair22_L
+    400036: BackHair22_R
+    400038: BackHair23_L
+    400040: BackHair23_R
+    400042: BackHair24_L
+    400044: BackHair24_R
+    400046: BackHair25_L
+    400048: BackHair25_R
+    400050: BackHair26_L
+    400052: BackHair26_R
+    400054: BackHair31
+    400056: BackHair32
+    400058: BackHair33
+    400060: BackHair34
+    400062: BackHair35
+    400064: BackHair36
+    400066: Body
+    400068: Chain1_L
+    400070: Chain2_L
+    400072: Chain3_L
+    400074: Chain4_L
+    400076: Chain5_L
+    400078: Chain6_L
+    400080: Chest
+    400082: Eye_L
+    400084: Eye_R
+    400086: FrontHair1
+    400088: FrontHair2_L
+    400090: FrontHair2_R
+    400092: Head
+    400094: Hips
+    400096: IndexFinger1_L
+    400098: IndexFinger1_R
+    400100: IndexFinger2_L
+    400102: IndexFinger2_R
+    400104: IndexFinger3_L
+    400106: IndexFinger3_R
+    400108: Left ankle
+    400110: Left arm
+    400112: Left elbow
+    400114: Left knee
+    400116: Left leg
+    400118: Left shoulder
+    400120: Left toe
+    400122: Left wrist
+    400124: LeftEye
+    400126: LittleFinger1_L
+    400128: LittleFinger1_R
+    400130: LittleFinger2_L
+    400132: LittleFinger2_R
+    400134: LittleFinger3_L
+    400136: LittleFinger3_R
+    400138: MiddleFinger1_L
+    400140: MiddleFinger1_R
+    400142: MiddleFinger2_L
+    400144: MiddleFinger2_R
+    400146: MiddleFinger3_L
+    400148: MiddleFinger3_R
+    400150: MonkeyBodyBody1_L
+    400152: MonkeyBodyBody1_R
+    400154: MonkeyBodyBody2_L
+    400156: MonkeyBodyBody2_R
+    400158: Neck
+    400160: Right ankle
+    400162: Right arm
+    400164: Right elbow
+    400166: Right knee
+    400168: Right leg
+    400170: Right shoulder
+    400172: Right toe
+    400174: Right wrist
+    400176: RightEye
+    400178: RingFinger1_L
+    400180: RingFinger1_R
+    400182: RingFinger2_L
+    400184: RingFinger2_R
+    400186: RingFinger3_L
+    400188: RingFinger3_R
+    400190: Spine
+    400192: //RootNode
+    400194: String1_L
+    400196: String1_R
+    400198: String2_L
+    400200: String2_R
+    400202: String3_L
+    400204: String3_R
+    400206: Tail1
+    400208: Tail2
+    400210: Tail3
+    400212: Tail4
+    400214: Tail5
+    400216: Thumb0_L
+    400218: Thumb0_R
+    400220: Thumb1_L
+    400222: Thumb1_R
+    400224: Thumb2_L
+    400226: Thumb2_R
+    400228: US_0_0
+    400230: US_0_1
+    400232: US_0_2
+    400234: US_0_3
+    400236: US_0_4
+    400238: US_0_5
+    400240: US_0_6
+    400242: US_0_7
+    400244: US_0_8
+    400246: US_0_9
+    400248: US_1_0
+    400250: US_1_1
+    400252: US_1_2
+    400254: US_1_3
+    400256: US_1_4
+    400258: US_1_5
+    400260: US_1_6
+    400262: US_1_7
+    400264: US_1_8
+    400266: US_1_9
+    2100000: combined_material_982166990
+    2100002: combined_material_634393553
+    2100004: TailUse.006
+    2100006: combined_material_1585880813
+    2100008: combined_material_8104208556
+    2100010: PeopleBodyUse.006
+    2100012: combined_material_8359402920
+    4300000: Body
+    7400000: Poison_motion
+    9500000: //RootNode
+    13700000: Body
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Poison_motion
+      takeName: mixamo.com
+      firstFrame: 0
+      lastFrame: 89
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
